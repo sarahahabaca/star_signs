@@ -1,0 +1,11 @@
+.background-container {
+    background-color: black;
+    align-items: center;
+    color: #d2ad76;
+    display: flex;
+}
+
+#signs {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%,
+}
